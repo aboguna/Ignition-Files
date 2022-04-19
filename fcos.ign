@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAC3NzaC1lZDI1NTE5AAAAIDZOmduh0YF2LRPvaobyoBqJ6a3QKhUTs2TKRQK4ZdhC arnau.boguna@gmail.com"
+        ]
+      }
+    ]
+  }
+}
